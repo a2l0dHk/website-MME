@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>Qolle - Agency HTML Template || Home</title>
+    <title>ММЭ - Математические методы в экономике</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="newbies/logo.png" type="image/x-icon">
     <!--====== Google Fonts ======-->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Quicksand:wght@500;600;700&display=swap" rel="stylesheet">
     
@@ -592,51 +592,57 @@
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-4 text-lg-right">
-                        <a href="#" class="theme-btn style-three mb-25">Посмотреть больше новостей <i class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="https://www.dvfu.ru/news/" class="theme-btn style-three mb-25">Посмотреть больше новостей <i class="fas fa-long-arrow-alt-right"></i></a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-xl-4 col-md-6">
                         <div class="blog-item wow fadeInUp delay-0-2s">
-                            <div class="image">
+                            <div class="image" id="newsImage1">
                                 <img src="assets/images/blog/blog-1.jpg" alt="Blog">
                             </div>
                             <div class="blog-content">
-                                <a href="blog-details.html" class="details-btn"><i class="fas fa-long-arrow-alt-right"></i></a>
-                                <h4><a href="blog-details.html">Новость</a></h4>
-                                <p>Описание </p>
+                                <div id="newsHref1">
+                                    <a href="#" class="details-btn"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                </div>
+                                <h4 id="newsMain1"><a href="#">Новость</a></h4>
+                                <p id="newsDescription1">Описание </p>
                                 <ul class="blog-footer">
-                                    <li><i class="far fa-calendar-alt"></i> <a href="#">25 Feb 2022</a></li>
+                                    <li><i class="far fa-calendar-alt"></i> <a href="#" id="newsDate1">25 Feb 2022</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6">
                         <div class="blog-item wow fadeInUp delay-0-4s">
-                            <div class="image">
+                            <div class="image" id="newsImage2">
                                 <img src="assets/images/blog/blog-2.jpg" alt="Blog">
                             </div>
                             <div class="blog-content">
-                                <a href="blog-details.html" class="details-btn"><i class="fas fa-long-arrow-alt-right"></i></a>
-                                <h4><a href="blog-details.html">Новость</a></h4>
-                                <p>Описание </p>
+                                <div id="newsHref2">
+                                    <a href="#" class="details-btn"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                </div>
+                                <h4 id="newsMain2"><a href="#">Новость</a></h4>
+                                <p id="newsDescription2">Описание </p>
                                 <ul class="blog-footer">
-                                    <li><i class="far fa-calendar-alt"></i> <a href="#">25 Feb 2022</a></li>
+                                    <li><i class="far fa-calendar-alt"></i> <a href="#" id="newsDate2">25 Feb 2022</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6">
                         <div class="blog-item wow fadeInUp delay-0-6s">
-                            <div class="image">
+                            <div class="image" id="newsImage3">
                                 <img src="assets/images/blog/blog-3.jpg" alt="Blog">
                             </div>
                             <div class="blog-content">
-                                <a href="blog-details.html" class="details-btn"><i class="fas fa-long-arrow-alt-right"></i></a>
-                                <h4><a href="blog-details.html">Новость</a></h4>
-                                <p>Описание </p>
+                                <div id="newsHref3">
+                                    <a href="#" class="details-btn"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                </div>
+                                <h4 id="newsMain3"><a href="#">Новость</a></h4>
+                                <p id="newsDescription3">Описание </p>
                                 <ul class="blog-footer">
-                                    <li><i class="far fa-calendar-alt"></i> <a href="#">25 Feb 2022</a></li>
+                                    <li><i class="far fa-calendar-alt"></i> <a href="#" id="newsDate3">25 Feb 2022</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -748,6 +754,9 @@
     <script src="assets/js/wow.min.js"></script>
     <!-- Custom script -->
     <script src="assets/js/script.js"></script>
+    <!-- Parsing news script -->
+    <script src="assets/js/news.js">alert('Привет, мир!');</script>
+    
 
 </body>
 </html>

@@ -32,7 +32,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "yourmail@domain.com";
+$EmailTo = "alexey.my.job@bk.ru";
 
 $Subject = "New Message Received";
 
@@ -50,6 +50,7 @@ $Body .= "\n";
 $Body .= "Message: ";
 $Body .= $message;
 $Body .= "\n";
+
 
 // send email
 $success = mail($EmailTo, $Subject, $Body);

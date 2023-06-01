@@ -1,0 +1,27 @@
+{
+    "newsImage": {
+        "one": "https://www.dvfu.ru/upload/resize_cache/iblock/0fc/ocq2vikl0t7qic88xmm02a4npu7y8kit/490_270_2/196A6875.jpg",
+        "two": "https://www.dvfu.ru/upload/resize_cache/iblock/294/5bxzjjy11ffxhntxn7zdsi7qw0iejd9s/490_270_2/\u0444\u043b\u0430\u0433.JPG",
+        "three": "https://www.dvfu.ru/upload/resize_cache/iblock/16a/8mejfw4mixyy98250ckitn78gfwctga6/490_270_2/196A4731.JPG"
+    },
+    "newsMain_href": {
+        "one": "https://www.dvfu.ru/news/fefu-news/eksperty_dvfu_rasskazali_o_kreativnykh_industriyakh/",
+        "two": "https://www.dvfu.ru/news/fefu-news/kubok_rektora_student_dvfu_zavoeval_zoloto_vserossiyskogo_turnira_po_sportivnoy_borbe/",
+        "three": "https://www.dvfu.ru/news/fefu-news/boris_korobets_peredovaya_inzhenernaya_shkola_stanet_lokomotivom_transformatsii_obrazovatelnoy_sistemy_dvfu/"
+    },
+    "newsMain_text": {
+        "one": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442\u044b \u0414\u0412\u0424\u0423 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u043a\u0440\u0435\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u044f\u0445",
+        "two": "\u041a\u0443\u0431\u043e\u043a \u0440\u0435\u043a\u0442\u043e\u0440\u0430: \u0441\u0442\u0443\u0434\u0435\u043d\u0442 \u0414\u0412\u0424\u0423 \u0437\u0430\u0432\u043e\u0435\u0432\u0430\u043b \u0437\u043e\u043b\u043e\u0442\u043e \u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0442\u0443\u0440\u043d\u0438\u0440\u0430 \u043f\u043e \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0439 \u0431\u043e\u0440\u044c\u0431\u0435",
+        "three": "\u0411\u043e\u0440\u0438\u0441 \u041a\u043e\u0440\u043e\u0431\u0435\u0446: \u00ab\u041f\u0435\u0440\u0435\u0434\u043e\u0432\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u0430\u044f \u0448\u043a\u043e\u043b\u0430 \u0441\u0442\u0430\u043d\u0435\u0442 \u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432\u043e\u043c \u0442\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0414\u0412\u0424\u0423\u00bb"
+    },
+    "newsDescription": {
+        "one": "#\u0421\u043e\u0431\u044b\u0442\u0438\u044f",
+        "two": "#\u0421\u043e\u0431\u044b\u0442\u0438\u044f #\u0413\u043e\u0440\u0434\u043e\u0441\u0442\u044c",
+        "three": "#\u041f\u0418\u0428"
+    },
+    "newsDate": {
+        "one": "31 \u043c\u0430\u044f",
+        "two": "31 \u043c\u0430\u044f",
+        "three": "31 \u043c\u0430\u044f"
+    }
+}
